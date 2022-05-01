@@ -27,7 +27,7 @@ Traindata=Traindata(:, Trainlabels==1);
 %See 'GRK_oneclass.m' for parameter definitions and
 %'give_reference_vectors.m' for GRK variant definitions
 method = 'svdd';
-useNPT = false; 
+useNPT = true; 
 useGRK = true; 
 refoption = 5; 
 basekernel = @kernel_rbf;
