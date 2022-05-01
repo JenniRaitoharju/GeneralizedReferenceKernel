@@ -1,0 +1,4 @@
+Each dataset has been preprocessed as follows:
+-There are 5 different data splits in train/test sets
+-The targetclass has class label '1', other classes '-1'
+-In each case, the data has been standardized using the mean and std of the target class training samples
