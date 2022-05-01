@@ -1,5 +1,0 @@
-%DEFAULT Assign default value to empty variable
-%
-%   X = DEFAULT(X,V)
-%
-% If 
